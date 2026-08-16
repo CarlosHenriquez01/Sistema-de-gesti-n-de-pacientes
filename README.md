@@ -27,6 +27,8 @@ Datos de salida: El programa muestra mensajes como:
 
 
 CÓDIGO - SISTEMA DE GESTIÓN DE PACIENTES.
+
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
